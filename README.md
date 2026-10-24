@@ -1,6 +1,3 @@
-# t1c1-quantum-forge
-Private hackathon repository for Quantum Forge
-
 # Gemma-Powered Multimodal Urban Intelligence: Temporal Knowledge Graphs, Agentic Verification, and Geospatial Incident Analytics
 
 **Team Name:** Quantum Forge
